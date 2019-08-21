@@ -7,10 +7,10 @@
 ### 目录
 <br/>
 
-[如何转行产品经理（一）初心][https://github.com/YSshawn/PM-10days/blob/master/1-Beginning.md]
+[如何转行产品经理（一）初心](https://github.com/YSshawn/PM-10days/blob/master/1-Beginning.md)
 <br/>
 
-[如何转行产品经理（二）我适合吗？][https://github.com/YSshawn/PM-10days/blob/master/2-fitness.md]
+[如何转行产品经理（二）我适合吗？]:https://github.com/YSshawn/PM-10days/blob/master/2-fitness.md
 <br/>
 
 [如何转行产品经理（三）产品经理的工作内容及职责][https://github.com/YSshawn/PM-10days/blob/master/3-workcontent.md]
