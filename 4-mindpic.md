@@ -1,6 +1,6 @@
 # 如何转行产品经理（四）思维导图工具 XMind
 ![XMIND](https://raw.githubusercontent.com/YSshawn/PM-10days/master/pic/XMIND.png)
-**XMind：ZEN **
+**XMind：ZEN**
 是一款非常实用的思维导图工具。XMind官方有XMind 8 和XMind：ZEN两个系列，这里推荐使用XMind：ZEN。按照官方的解释，XMind：ZEN是面向未来的思维导图工具。
 <br/>
 <br/>
