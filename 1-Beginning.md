@@ -1,5 +1,4 @@
 # 如何转行产品经理（一）初心
-[图片]:https://upload-images.jianshu.io/upload_images/2980541-4fc15882ee8a37ca.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1000/format/webp
 
 旁白：请先做个自我介绍吧
 
@@ -26,3 +25,6 @@
 四）面试指导
 
 旁白：好了今天的介绍就先到这里，如果你或者你的朋友们也想转行做产品经理，可以叫上他们一起关注我的公众号。
+
+欢迎关注我的公众号
+![qr](https://raw.githubusercontent.com/YSshawn/PM-10days/master/pic/2980541-065cc3b5b0ab390b.jpg)
