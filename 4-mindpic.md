@@ -1,13 +1,15 @@
 # 如何转行产品经理（四）思维导图工具 XMind
 ![XMIND](https://raw.githubusercontent.com/YSshawn/PM-10days/master/pic/XMIND.png)
-**XMind：ZEN **是一款非常实用的思维导图工具。XMind官方有XMind 8 和XMind：ZEN两个系列，这里推荐使用XMind：ZEN。按照官方的解释，XMind：ZEN是面向未来的思维导图工具。
+**XMind：ZEN **
+是一款非常实用的思维导图工具。XMind官方有XMind 8 和XMind：ZEN两个系列，这里推荐使用XMind：ZEN。按照官方的解释，XMind：ZEN是面向未来的思维导图工具。
 <br/>
 <br/>
 <br/>
 
 ### 为什么用思维导图，它有什么好处？
 
-**思维导图是一种结构化、图形化的信息。**相比零散的、文字性的信息，思维导图更容易被大脑理解和记忆。
+**思维导图是一种结构化、图形化的信息。**
+相比零散的、文字性的信息，思维导图更容易被大脑理解和记忆。
 <br/>
 <br/>
 <br/>
