@@ -10,22 +10,22 @@
 [如何转行产品经理（一）初心](https://github.com/YSshawn/PM-10days/blob/master/1-Beginning.md)
 <br/>
 
-[如何转行产品经理（二）我适合吗？]:https://github.com/YSshawn/PM-10days/blob/master/2-fitness.md
+[如何转行产品经理（二）我适合吗？](https://github.com/YSshawn/PM-10days/blob/master/2-fitness.md)
 <br/>
 
-[如何转行产品经理（三）产品经理的工作内容及职责][https://github.com/YSshawn/PM-10days/blob/master/3-workcontent.md]
+[如何转行产品经理（三）产品经理的工作内容及职责](https://github.com/YSshawn/PM-10days/blob/master/3-workcontent.md)
 <br/>
 
-[如何转行产品经理（四）思维导图工具 XMind][https://github.com/YSshawn/PM-10days/blob/master/4-mindpic.md]
+[如何转行产品经理（四）思维导图工具 XMind](https://github.com/YSshawn/PM-10days/blob/master/4-mindpic.md)
 <br/>
 
-[如何转行产品经理（五）原型设计工具Axure][https://github.com/YSshawn/PM-10days/blob/master/5-useAxure.md]
+[如何转行产品经理（五）原型设计工具Axure](https://github.com/YSshawn/PM-10days/blob/master/5-useAxure.md)
 <br/>
 
-[如何转行产品经理（六）产品需求文档][https://github.com/YSshawn/PM-10days/blob/master/6-PRD.md]
+[如何转行产品经理（六）产品需求文档](https://github.com/YSshawn/PM-10days/blob/master/6-PRD.md)
 <br/>
 
-[如何转行产品经理（七）产品经理能力模型][https://github.com/YSshawn/PM-10days/blob/master/7-ability.md]
+[如何转行产品经理（七）产品经理能力模型](https://github.com/YSshawn/PM-10days/blob/master/7-ability.md)
 
 <br/>
 <br/>
